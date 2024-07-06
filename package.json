@@ -1,6 +1,6 @@
 {
   "name": "@urso/slot-base",
-  "version": "0.7.80",
+  "version": "0.7.81",
   "description": "HTML5 slot base game",
   "main": "build/js/index.js",
   "author": "LCG",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/megbrimef/urso-slot-base#readme",
   "dependencies": {
-    "@urso/core": "^0.7.80"
+    "@urso/core": "^0.7.81"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
