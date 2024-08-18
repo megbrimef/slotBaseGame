@@ -1,6 +1,6 @@
 {
   "name": "@urso/slot-base",
-  "version": "0.7.90",
+  "version": "0.7.91",
   "description": "HTML5 slot base game",
   "main": "build/js/index.js",
   "author": "LCG",
